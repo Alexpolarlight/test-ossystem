@@ -1,0 +1,52 @@
+{
+    "tumbler" : {
+        "name": "SPACEX TUMBLER",
+        "image": "./img/tumbler.png",
+        "description": "Stainless Steel, Vacuum insulated",
+        "price": "$25.00"
+       },
+    "hoodie" : {
+        "name": "FH ZIPPER HOODIE",
+        "image": "./img/hoodie.png",
+        "description": "100% Cotton hoodie. Unisex sizing applies",
+        "price": "$40.00"
+    },
+    "mug" : {
+        "name": "DRAGON MUG",
+        "image": "./img/mug.png",
+        "description": "16oz. Microwave safe",
+        "price": "$15.00"
+    },
+    "model" : {
+        "name": "F9 DESKTOP MODEL",
+        "image": "./img/model.png",
+        "description": "F9 Display Model + Stand",
+        "price": "$140.00"
+    },
+    "cap" : {
+        "name": "FH CAP",
+        "image": "./img/cap.png",
+        "description": "Flexfit L/XL (7 1/8 - 7 5/8)",
+        "price": "$18.00"
+    },
+    "journal" : {
+        "name": "SPACEX JOURNAL PACK",
+        "image": "./img/journal.png",
+        "description": "Faux leather hard cover. Ruled paper",
+        "price": ""
+    },
+    "backpack" : {
+        "name": "SPACEX BACKPACK",
+        "image": "./img/backpack.png",
+        "description": "Large main compartment fits laptop, iPad, books, lunch, and a light jacket",
+        "price": "$70.00"
+    },
+    "t-shirt" : {
+        "name": "HYPERLOOP T-SHIRT",
+        "image": "./img/t-shirt.png",
+        "description": "Hyperloop Pod Competition T-shirt",
+        "price": "22.00"
+    }
+   }
+
+   

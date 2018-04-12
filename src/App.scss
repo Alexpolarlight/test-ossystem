@@ -1,0 +1,74 @@
+.App {
+  text-align: center;
+  background-color: #5b5c5e;
+}
+
+.App-header {
+  background-color: #222;
+  height: 75px;
+  padding: 0px;
+  color: white;
+  box-shadow: 0px 10px 15px #38393c;
+}
+
+.Nav-bar {
+  position: absolute;
+  top: 0px;
+  left: 50%;
+  transform: translate(-50%, 0);
+  width: 80%;
+  height: 75px;
+  //border: 1px solid blue;
+}
+
+.App-logo {
+  position: absolute;
+  left:50px;
+  bottom: 10px;
+  height: 25px;
+}
+
+.App-title {
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%, 0);
+  bottom: 3px;
+  font-size: 1.3em;
+  line-height: 0px;
+}
+
+.Paper-box {
+  position: relative;
+  top: 0px;
+  left: 50%;
+  transform: translate(-50%, 0);
+  width: 80%;
+  height: 550px;
+  //border: 1px solid red;
+}
+
+.Paper-box-stuff {
+  position: relative;
+  width: 75%;
+  //border: 1px solid green;
+}
+
+.Paper-box-calc {
+  position: absolute;
+  right: 20px;
+  top: 20px;
+  width: 20%;
+  //border: 1px solid greenyellow;
+  display: inline-block;
+}
+
+.Item{
+  position: relative;
+  height: 170px;
+  width: 150px;
+  margin: 20px;
+  display: inline-block;
+  text-align: center;
+  background-color: 424242;
+  //border: 1px solid red;
+}
